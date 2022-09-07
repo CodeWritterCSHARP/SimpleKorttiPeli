@@ -1,0 +1,21 @@
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.UserControl1.resources
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.csprojAssemblyReference.cache
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.Form1.resources
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.Properties.Resources.resources
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.UserControl1.resources
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.cache
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\Home-Comp\Desktop\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
